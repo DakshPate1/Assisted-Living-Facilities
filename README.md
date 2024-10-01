@@ -33,6 +33,6 @@ The `data` folder contains the relevant CSV files needed for analysis, which are
 ## Further Reading
 
 You can find the related documents for this project at the following links:
-- [Link to Document 1](#)
-- [Link to Document 2](#)
+- [[Link to Detailed report](https://docs.google.com/document/d/1ZaQ3oNy0RV43oJVGXSfchIAkMiDGcFv2nh47gOgsSBI/edit?usp=sharing)](#)
+
 
