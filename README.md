@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for your project:
-
----
 
 # Assisted Living Facility Data Analysis
 
